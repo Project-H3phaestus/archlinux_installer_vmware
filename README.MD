@@ -6,13 +6,13 @@
 | English Doc | [中文文档](./README_CHINESE.MD) |
 |:---:|:---:|
 
-# Aegis
-Arch linux installer for virtual machine
+# archlinux_installer_vmware
+Arch linux installer for vmware
 
 ## :warning: CAUTION
 This script is for:
 - Version: Arch Linux 2020.07.01 or later
-- Container: VMware(Not yet tested on hardware)
+- Container: VMware
 - Boot Mode: BIOS
 - Network Status: Online
 

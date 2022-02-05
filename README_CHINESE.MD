@@ -5,8 +5,8 @@
 | [English Doc](./README.MD) | 中文文档 |
 |:---:|:---:|
 
-# 宙斯盾安装脚本
-为虚拟机打造的Arch Linx安装脚本
+# ArchLinux自动安装脚本
+适配VMware虚拟机的Arch Linx自动安装脚本
 
 ## 注意
 此脚本适用于:
