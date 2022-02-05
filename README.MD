@@ -5,14 +5,14 @@
 # Aegis
 Arch linux installer for virtual machine
 
-## CAUTION
+## :warning: CAUTION
 This script is for:
 - Version: Arch Linux 2020.07.01 or later
 - Container: VMware(Not yet tested on hardware)
 - Boot Mode: BIOS
 - Network Status: Online
 
-## HOW TO USE
+## :bulb: Usage
 
 Load arch linux live ISO, then [download release file](https://github.com/CloudSen/archlinux_installer_vm/releases):  
 
@@ -59,7 +59,7 @@ find . -name "*.sh" -execdir chmod +x {} +
 
 Check log files: `log/info.log` and `log/error.log`
 
-## CONFIGURATION FILE
+## :wrench: CONFIGURATION FILE
 
 You must specify:  
 
@@ -114,7 +114,7 @@ graphicEnvironment="xorg plasma kde-applications sddm"
 vmTools="gtkmm3 open-vm-tools xf86-input-vmmouse xf86-video-vmware"
 ```
 
-## WHAT WILL BE INSTALLED
+## :bookmark: WHAT WILL BE INSTALLED
 
 Pre-install:  
 
@@ -133,7 +133,7 @@ Post-install:
 
 - The soft list specified in config.sh
 
-## SUCCESS INSTALL FULL INFO LOG
+## :page_facing_up: SUCCESS INSTALL FULL INFO LOG
 
 ```
 [MODE-CHECK] --------------------
@@ -347,3 +347,16 @@ Jul 27 01:52:31 GLaDOS vmware-vmblock-fuse[15994]:    unique: 6, success, outsiz
 [POST-INSTALL] Enjoy your new system! ;)
 
 ```
+
+# :hammer: Contributing
+PRs accepted.
+
+Small note: If editing the Readme, please conform to the [standard-readme](https://github.com/RichardLitt/standard-readme) specification.
+
+# :sunglasses: Contributors
+<a href="https://github.com/Project-H3phaestus/aegis/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Project-H3phaestus/aegis" />
+</a>
+
+# :blue_book: License
+MIT © CloudS3n

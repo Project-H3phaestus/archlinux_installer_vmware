@@ -349,3 +349,16 @@ Jul 27 01:52:31 GLaDOS vmware-vmblock-fuse[15994]:    unique: 6, success, outsiz
 [POST-INSTALL] Enjoy your new system! ;)
 
 ```
+
+# :hammer: 贡献
+欢迎提交PR～！
+
+提示: 如果需要修改readme，请准守 [standard-readme](https://github.com/RichardLitt/standard-readme) 规范.
+
+# :sunglasses: 贡献者名单
+<a href="https://github.com/Project-H3phaestus/aegis/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Project-H3phaestus/aegis" />
+</a>
+
+# :blue_book: 授权信息
+MIT © CloudS3n
