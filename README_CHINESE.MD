@@ -1,5 +1,7 @@
 [![HnF0M9.png](https://s4.ax1x.com/2022/02/05/HnF0M9.png)](https://imgtu.com/i/HnF0M9)
 
+![mit](https://img.shields.io/github/license/Project-H3phaestus/aegis) ![contributors](https://img.shields.io:/github/contributors/Project-H3phaestus/aegis)
+
 # 宙斯盾安装脚本
 为虚拟机打造的Arch Linx安装脚本
 
