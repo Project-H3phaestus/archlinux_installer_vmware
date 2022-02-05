@@ -1,5 +1,7 @@
-# ARCH LINUX INSTALLER FOR VIRTUAL MACHINE
-> 半自动化
+[![HnF0M9.png](https://s4.ax1x.com/2022/02/05/HnF0M9.png)](https://imgtu.com/i/HnF0M9)
+
+# 宙斯盾安装脚本
+为虚拟机打造的Arch Linx安装脚本
 
 ## 注意
 此脚本适用于:

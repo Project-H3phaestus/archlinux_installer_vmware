@@ -1,5 +1,7 @@
-# ARCH LINUX INSTALLER FOR VIRTUAL MACHINE
-> Semi-automatic
+[![HnF0M9.png](https://s4.ax1x.com/2022/02/05/HnF0M9.png)](https://imgtu.com/i/HnF0M9)
+
+# Aegis
+Arch linux installer for virtual machine
 
 ## CAUTION
 This script is for:
