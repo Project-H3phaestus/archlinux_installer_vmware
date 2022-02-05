@@ -2,6 +2,9 @@
 
 ![mit](https://img.shields.io/github/license/Project-H3phaestus/aegis) ![contributors](https://img.shields.io:/github/contributors/Project-H3phaestus/aegis)
 
+| [English Doc](./README.MD) | 中文文档 |
+|:---:|:---:|
+
 # 宙斯盾安装脚本
 为虚拟机打造的Arch Linx安装脚本
 
@@ -361,4 +364,4 @@ Jul 27 01:52:31 GLaDOS vmware-vmblock-fuse[15994]:    unique: 6, success, outsiz
 </a>
 
 # :blue_book: 授权信息
-MIT © CloudS3n
+[MIT © CloudS3n](./LICENSE)

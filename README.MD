@@ -2,6 +2,10 @@
 
 ![mit](https://img.shields.io/github/license/Project-H3phaestus/aegis) ![contributors](https://img.shields.io:/github/contributors/Project-H3phaestus/aegis)
 
+
+| English Doc | [中文文档](./README_CHINESE.MD) |
+|:---:|:---:|
+
 # Aegis
 Arch linux installer for virtual machine
 
@@ -359,4 +363,4 @@ Small note: If editing the Readme, please conform to the [standard-readme](https
 </a>
 
 # :blue_book: License
-MIT © CloudS3n
+[MIT © CloudS3n](./LICENSE)
